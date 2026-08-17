@@ -1,0 +1,2 @@
+Model,Feature set,Train Accuracy,Train F1 (weighted),Test Accuracy,Test F1 (weighted),Overfit Gap (F1),Best epoch,Best val loss
+MLP (PyTorch),ESM-2 embeddings,0.9774834437086093,0.9774997715776753,0.8957239309827457,0.8972804983530037,0.0802192732246716,7,0.2947119829058647
