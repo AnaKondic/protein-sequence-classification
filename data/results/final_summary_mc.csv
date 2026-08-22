@@ -1,0 +1,3 @@
+Eksperiment,Konfiguracija,Test F1 micro,Test F1 macro,Test Subset Accuracy,Test Hamming Loss
+C: MC + Klasicni ML,SVM + TFIDF-SVD,0.8252361673414305,0.8131265212996814,0.7428571428571429,0.074
+D: MC + Deep Learning,MLP + ESM-2 embeddings,0.8975144705481785,0.8875410989793118,0.8642857142857143,0.043
