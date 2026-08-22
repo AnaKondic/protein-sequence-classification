@@ -1,0 +1,2 @@
+Model,Feature set,Hidden dims,Dropout,Learning rate,Weight decay,Train F1 micro,Train F1 macro,Train Subset Accuracy,Test F1 micro,Test F1 macro,Test F1 samples,Test Subset Accuracy,Test Hamming Loss,Overfit Gap (F1 micro),Best val F1 micro,Best epoch
+MLP (PyTorch),ESM-2 embeddings,"(128, 64)",0.5,0.001,0.0001,0.9476204729123017,0.945726179729561,0.9188007495315428,0.8975144705481785,0.8875410989793118,0.8981666666666667,0.8642857142857143,0.043,0.050106002364123214,0.8868234007654456,73
