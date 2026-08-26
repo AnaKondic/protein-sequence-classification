@@ -1,3 +1,0 @@
-Eksperiment,Konfiguracija,Test Accuracy,Test F1 (weighted)
-A: SC + Klasicni ML,SVM + AAC-CV+TFIDF-SVD,0.8184546136534133,0.8155472214921168
-B: SC + Deep Learning,MLP + ESM-2 embeddings,0.894973743435859,0.8968189526926638

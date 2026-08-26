@@ -1,0 +1,12 @@
+# Generated features
+data/features/
+
+# Trained models
+data/models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+tempCodeRunnerFile.ipynb

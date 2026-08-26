@@ -1,2 +1,0 @@
-model_name,embedding_dim,max_length,pooling,n_proteins
-facebook/esm2_t6_8M_UR50D,320,1022,"mean (excluding <cls>, <eos>, padding)",7043
