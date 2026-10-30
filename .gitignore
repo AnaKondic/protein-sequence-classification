@@ -4,9 +4,25 @@ data/features/
 # Trained models
 data/models/
 
+# Generated results
+results/
+
+# Cache
+.cache/
+**/.cache/
+cache/
+**/cache/
+
 # Python cache
 __pycache__/
-*.pyc
+*.pyc[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
 
 # Temporary files
 tempCodeRunnerFile.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
